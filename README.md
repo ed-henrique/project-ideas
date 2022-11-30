@@ -17,9 +17,9 @@ This repository contains several ideas I'm either working on or saving to work o
   - [Professional Development Center for UFRR](#professional-development-center-for-ufrr)
   - [Fliperama](#fliperama)
   - [Lock System](#lock-system)
-  - [Sistema de monitoramento](#sistema-de-monitoramento)
-  - [Integração com Alexa](#integração-com-alexa)
-  - [Aplicativo de compras](#aplicativo-de-compras)
+  - [Surveillance System](#surveillance-system)
+  - [Alexa Integration in Smart Room](#alexa-integration-in-smart-room)
+  - [Shopping App](#shopping-app)
   - [Children Songs Channel](#children-songs-channel)
   - [Webtoon](#webtoon)
 
@@ -132,47 +132,58 @@ This repository contains several ideas I'm either working on or saving to work o
 >
 > - RFID
 
-### Sistema de monitoramento
+### Surveillance System
 
-Integrar câmera para apenas gravar quando tiver gente no CACC, com registro de entradas e saídas de pessoal. Apenas gravar quando há pessoas na sala.
+- Link
+- Team: [Eduardo](https://github.com/ed-henrique), [Bernardo](https://github.com/GuilhermeBn198), [Kaio](https://github.com/Kaioguilherme1)
+- Description:
 
-Possíveis soluções:
+> Integrate cameras to only record when there are people in the room, logging people flow.
+>
+> Possible solutions:
+>
+> - Manual way to turn off cameras
 
-- Botão manual para desligamento das câmeras
+### Alexa Integration in Smart Room
 
-### Integração com Alexa
+- Link
+- Team: [Eduardo](https://github.com/ed-henrique), [Bernardo](https://github.com/GuilhermeBn198), [Kaio](https://github.com/Kaioguilherme1)
+- Description:
 
-Possíveis integrações:
+> Possible solutions:
+>
+> - Turn on air conditioning and change temperature
+> - Turn on microwave with time
+> - Greetings system based on RFID name
+> - Automatic lighting
+>
+> Possible challenges:
+>
+> - Wireless connection in college's network
 
-- Sistema de saudações com reconhecimento da pessoa que entrou através do RFID (uma vez ao dia)
-- Ligar micro-ondas por comando de vez (Exige integração com embarcados)
-- Luzes automáticas (Funciona com palmas)
-- Ligar central de ar e mudar temperatura
+### Shopping App
 
-Possíveis desafios:
+- Link
+- Team: [Eduardo](https://github.com/ed-henrique), [Bernardo](https://github.com/GuilhermeBn198), [Kaio](https://github.com/Kaioguilherme1)
+- Description:
 
-- Conexão sem fio na UFRR (bloqueio por parte da DTI)
-
-### Aplicativo de compras
-
-Controle das vendas do mercadinho do CACC.
-
-Possíveis implementações:
-
-- Leitor de código de barras
-- PIX integrado
-- Integração com cartão de crédito (app móvel)
-  - Máquina de cartão (caixa fixo)
-- Dinheiro atrelado ao cartão RFID
-
-Possíveis escolhas:
-
-- Aplicativo de celular
-- Caixa fixo (Cartão RFID para ativar)
-
-Possíveis desafios:
-
-- Criação/reativação de CNPJ
+> Shopping app for college market.
+>
+> Possible implementations:
+>
+> - Bar code reader
+> - PIX
+> - Credit card support (App)
+>   - Credit card machine (Physical)
+> - Credit stored in RFID tag
+>
+> Possible choices:
+>
+> - Mobile app
+>
+> Possible challenges:
+>
+> - Create CNPJ
 
 ### Children Songs Channel
 
