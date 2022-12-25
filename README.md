@@ -1,14 +1,16 @@
 # Project Ideas <!-- omit in toc -->
 
-This repository contains several ideas I'm either working on or saving to work on later. Some are done by myself, and some are collaborations.
+This repository contains several project ideas I did, am doing or will do. Some are done by myself, and some are collaborations.
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Currently working on](#currently-working-on)
+- [Doing](#doing)
   - [Portfolio](#portfolio)
-  - [Dashboard for COOPANA](#dashboard-for-coopana)
-- [Future Projects](#future-projects)
   - [Support Ticket Manager](#support-ticket-manager)
+  - [Shopping App](#shopping-app)
+- [Done](#done)
+  - [Dashboard for COOPANA](#dashboard-for-coopana)
+- [To Do](#to-do)
   - [Tinder 2](#tinder-2)
   - [Social Network Manager](#social-network-manager)
   - [Habit Tracking System with 3D Ecosystem](#habit-tracking-system-with-3d-ecosystem)
@@ -19,11 +21,10 @@ This repository contains several ideas I'm either working on or saving to work o
   - [Lock System](#lock-system)
   - [Surveillance System](#surveillance-system)
   - [Alexa Integration in Smart Room](#alexa-integration-in-smart-room)
-  - [Shopping App](#shopping-app)
   - [Children Songs Channel](#children-songs-channel)
   - [Webtoon](#webtoon)
 
-## Currently working on
+## Doing
 
 ### Portfolio
 
@@ -32,6 +33,40 @@ This repository contains several ideas I'm either working on or saving to work o
 - Description:
 
 > SPA using Vue.js with CSS animations
+
+### Support Ticket Manager
+
+- [Link](https://github.com/ed-henrique/support-ticket-system)
+- Team: [Eduardo](https://github.com/ed-henrique)
+- Description:
+
+> System to manage support tickets internally in a business. Tickets should be separated by sector. Each sector has its employees, including the support team.
+
+### Shopping App
+
+- [Link](https://github.com/ed-henrique/shopping-app-cacc)
+- Team: [Eduardo](https://github.com/ed-henrique), [Bernardo](https://github.com/GuilhermeBn198), [Kaio](https://github.com/Kaioguilherme1)
+- Description:
+
+> Shopping app for college market.
+>
+> Possible implementations:
+>
+> - Bar code reader
+> - PIX
+> - Credit card support (App)
+>   - Credit card machine (Physical)
+> - Credit stored in RFID tag
+>
+> Possible choices:
+>
+> - Mobile app
+>
+> Possible challenges:
+>
+> - Create CNPJ
+
+## Done
 
 ### Dashboard for COOPANA
 
@@ -43,15 +78,7 @@ This repository contains several ideas I'm either working on or saving to work o
 > - SQLite for Database
 > - Node.js, Typescript and Express.js for API
 
-## Future Projects
-
-### Support Ticket Manager
-
-- [Link](https://github.com/ed-henrique/ticket)
-- Team: [Eduardo](https://github.com/ed-henrique), [Bernardo](https://github.com/GuilhermeBn198)
-- Description:
-
-> System to manage support tickets internally in a business. Tickets should be separated by sector. Each sector has its employees, including the support team.
+## To Do
 
 ### Tinder 2
 
@@ -106,7 +133,7 @@ This repository contains several ideas I'm either working on or saving to work o
 ### Fliperama
 
 - Link
-- Team: [Eduardo](https://github.com/ed-henrique), [Bernardo](https://github.com/GuilhermeBn198)
+- Team: [Eduardo](https://github.com/ed-henrique), [Bernardo](https://github.com/GuilhermeBn198), [Kaio](https://github.com/Kaioguilherme1)
 - Description:
 
 > Linux for games emulator
@@ -160,30 +187,6 @@ This repository contains several ideas I'm either working on or saving to work o
 > Possible challenges:
 >
 > - Wireless connection in college's network
-
-### Shopping App
-
-- Link
-- Team: [Eduardo](https://github.com/ed-henrique), [Bernardo](https://github.com/GuilhermeBn198), [Kaio](https://github.com/Kaioguilherme1)
-- Description:
-
-> Shopping app for college market.
->
-> Possible implementations:
->
-> - Bar code reader
-> - PIX
-> - Credit card support (App)
->   - Credit card machine (Physical)
-> - Credit stored in RFID tag
->
-> Possible choices:
->
-> - Mobile app
->
-> Possible challenges:
->
-> - Create CNPJ
 
 ### Children Songs Channel
 
